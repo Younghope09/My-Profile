@@ -34,7 +34,6 @@
     <div class="container">
         <h2>About Me</h2>
         <p>Hello! I'm a passionate developer with a love for coding and open source projects. I specialized in backend develpement</p>
-        
         <h2>Skills</h2>
         <ul>
             <li>Backend Development</li>
@@ -43,13 +42,11 @@
             <li>Git & GitHub</li>
             <li>Python and C#</li>
         </ul>
-        
         <h2>Projects</h2>
         <ul>
             <li><a href="https://github.com/Younghope09/alx-system_engineering-devops.git">Project 1</a></li>
             <li><a href="https://github.com/Younghope09/AirBnB_clone_v4.git">Project 2</a></li>
         </ul>
-        
         <h2>Contact</h2>
         <p>You can reach me at <a href="mailto:your.email@example.com">agboedehope4@gmail.com</a>.</p>
     </div>
